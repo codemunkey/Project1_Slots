@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project 1_Edwards</string>
+
+    <string name="Instructions">$1 a Play</string>
+    <string name="match0">Match 0 - lose $1</string>
+    <string name="match2">Match 2 - win $2</string>
+    <string name="match3">Match 3 - win $3</string>
+    <string name="action_settings">Settings</string>
+    <string name="instruc">instructions</string>
+    <string name="Description1">Go button</string>
+    <string name="dollar">$</string>
+    ]<string name="counter">5</string>
+</resources>
